@@ -193,9 +193,6 @@ displayOnlineEducation();
 
 $("#mapDiv").append(googleMap);
 
-
-/*
-This is empty on purpose! Your code to build the resume will go here.
 //Playing with Arrays
 //console.log("\nPlaying with Arrays:");
 //var skills = ["Awesomeness ", "Information Security ","ISO 270001 Gap Assessment "];
